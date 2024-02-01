@@ -4,7 +4,8 @@ Feature-rich learning management system. You may want to build a learning manage
 
 Let's enhance the project by contributing! 👩‍💻👩‍💻
 
-![Screenshot from 2023-12-31 17-36-31](https://github.com/adilmohak/django-lms/assets/60693922/e7fb628a-6275-4160-ae0f-ab27099ab3ca)
+![Screenshot from 2023-12-31 17-36-31]![dashboard](https://github.com/TARishabh/Academix/assets/127947846/e75966be-0fde-491c-a219-6bf425b8a056)
+
 
 Current features
 ----------------
@@ -92,21 +93,6 @@ Last but not least, go to this address http://127.0.0.1:8000
 ### References
 - Quiz part: https://github.com/tomwalker/django_quiz
 
-# Connect with me
 
-<div>
-<a href="https://www.linkedin.com/in/adilmohak" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/adilmohak" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/12872688/adil-mohak" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/adilmohak1" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-</div>
 
 ### Show your support by ⭐️ this project!
